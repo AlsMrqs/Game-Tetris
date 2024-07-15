@@ -1,2 +1,2 @@
 # Game-Tetris
-A terminal game of Tetris
+A terminal Tetris game
