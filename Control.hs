@@ -35,8 +35,8 @@ sketch p = [[0 | _ <- xs] | _ <- ys]
         ys    = [y,(y-1)..(-y)]
         (x,y) = limit p
 
-coordinates :: Block -> [(Int,Int)]
-coordinates = map point
+coords :: Block -> [(Int,Int)]
+coords = map point
 
 type Point = (Int,Int)
     
