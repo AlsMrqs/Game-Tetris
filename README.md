@@ -1,2 +1,2 @@
-# Game-Tetris
-A terminal Tetris game
+# Haskell-Blocks
+A eliminate line game with objects 
